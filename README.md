@@ -3,7 +3,7 @@ cryptocurrency arbitrage
 
 Crypto-currency arbitrage (default pair is BTCUSD).
 
-Deterministric arb. opportunities utilising the following exchange orderbooks for pricing analysis
+Deterministic arb. opportunities utilising the following exchange orderbooks for pricing analysis
 
 - Kraken
 - Cryptsy
